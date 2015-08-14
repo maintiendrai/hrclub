@@ -1,0 +1,16 @@
+log4j.rootLogger=DEBUG
+
+#hrclub
+log4j.logger.hrclub=DEBUG,hrclub
+log4j.additivity.hrclub=false
+
+log4j.appender.stdout=org.apache.log4j.ConsoleAppender
+log4j.appender.stdout.layout=org.apache.log4j.PatternLayout
+log4j.appender.stdout.layout.ConversionPattern=%-5p [%t] %37c %3x - %m%n
+
+#hrclub
+log4j.appender.hrclub=org.apache.log4j.DailyRollingFileAppender
+log4j.appender.hrclub.file=../webapps/hrclub/WEB-INF/logs/hrclub.log
+log4j.appender.hrclub.DatePattern='.'yyyy-MM-dd
+log4j.appender.hrclub.layout=org.apache.log4j.PatternLayout
+log4j.appender.hrclub.layout.ConversionPattern=%-5p %d{yyyy-MM-dd HH:mm:ss} %l%n%m%n

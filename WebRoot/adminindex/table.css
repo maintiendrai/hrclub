@@ -1,0 +1,68 @@
+table,td{
+	color: #444444;
+	font-size: 15px;
+	height:0px;
+}
+.titlename {
+	font-size: xx-large;
+	font-weight: bold;
+}
+.small{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+.star {color: red}
+
+.button 
+{
+	BORDER-RIGHT: #a7a6aa 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: 
+    #a7a6aa 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: 
+    progid:DXImageTransform.Microsoft.Gradient(GradientType=0, 
+    StartColorStr=#ffffff, EndColorStr=#00ffff); BORDER-LEFT: #a7a6aa 
+    1px solid; COLOR: black; PADDING-TOP: 2px; 
+    BORDER-BOTTOM: #a7a6aa 1px solid;CURSOR: hand;
+}
+
+.btn3          
+{
+    BORDER-RIGHT: #a7a6aa 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: 
+    #a7a6aa 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: 
+    progid:DXImageTransform.Microsoft.Gradient(GradientType=0, 
+    StartColorStr=#ffffff, EndColorStr=#ffffff); BORDER-LEFT: #a7a6aa 
+    1px solid; COLOR: black; PADDING-TOP: 2px; CURSOR: hand;
+    BORDER-BOTTOM: #a7a6aa 1px solid
+}
+
+.btn {
+             BORDER-RIGHT: #7b9ebd 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: 
+            #7b9ebd 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: 
+            progid:DXImageTransform.Microsoft.Gradient(GradientType=0, 
+            StartColorStr=#ffffff, EndColorStr=#cecfde); BORDER-LEFT: #7b9ebd 
+            1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; 
+            BORDER-BOTTOM: #7b9ebd 1px solid
+            }
+.btn1_mouseout {
+             BORDER-RIGHT: #7EBF4F 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: 
+            #7EBF4F 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: 
+            progid:DXImageTransform.Microsoft.Gradient(GradientType=0, 
+            StartColorStr=#ffffff, EndColorStr=#B3D997); BORDER-LEFT: #7EBF4F 
+            1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; 
+            BORDER-BOTTOM: #7EBF4F 1px solid
+            } 
+.btn1_mouseover {
+             BORDER-RIGHT: #7EBF4F 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: 
+            #7EBF4F 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: 
+            progid:DXImageTransform.Microsoft.Gradient(GradientType=0, 
+            StartColorStr=#ffffff, EndColorStr=#CAE4B6); BORDER-LEFT: #7EBF4F 
+            1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; 
+            BORDER-BOTTOM: #7EBF4F 1px solid
+            } 
+            
+
+
+
+
+
+
+

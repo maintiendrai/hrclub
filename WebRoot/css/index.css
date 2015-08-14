@@ -1,0 +1,171 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+.top {
+	background-image: url(../images/index_2.gif);
+	height: 47px;
+	width: 779px;
+}
+td {
+	font-size: 12px;
+	line-height: 160%;
+	color: #333333;
+}
+.login {
+	font-size: 12px;
+	color: #FFFFFF;
+	background-image: url(../images/index_8_1_1_2.gif);
+	background-repeat: repeat;
+	padding-right: 18px;
+	padding-left: 18px;
+}
+.login td {
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.search {
+	background-image: url(../images/lf_1_1_2.gif);
+	background-repeat: no-repeat;
+	height: 178px;
+	padding-right: 10px;
+	padding-left: 25px;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.activity {
+	background-image: url(../images/index_8_1_2_2.gif);
+	background-repeat: repeat;
+	padding-right: 5px;
+	padding-left: 18px;
+}
+.news {
+	background-image: url(../images/lf_1_2_2.gif);
+	background-repeat: no-repeat;
+	padding-right: 5px;
+	padding-left: 8px;
+}
+.gedi {
+	background-image: url(../images/lf_2_2.gif);
+	background-repeat: repeat;
+	padding-right: 7px;
+	padding-left: 40px;
+}
+.down {
+	background-image: url(../images/index_11_1.gif);
+	background-repeat: no-repeat;
+}
+.down2 {
+	background-image: url(../images/index_11_2.gif);
+	background-repeat: no-repeat;
+}
+a {
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+}
+a:link {
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+}
+a:visited {
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+}
+a:hover {
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+}
+a:active {
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+}
+#blue {
+	font-size: 12px;
+	color: #016C93;
+	text-decoration: none;
+}
+#blue a {
+	font-size: 12px;
+	color: #016C93;
+	text-decoration: none;
+}
+.top01 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #333333;
+	background-image: url(../images/main_1.gif);
+	background-repeat: no-repeat;
+	height: 67px;
+	padding-left: 50px;
+}
+.titile {
+	font-size: 14px;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+	padding-top: 3px;
+}
+.text {
+	background-image: url(../images/main_2.gif);
+	background-repeat: repeat;
+	padding-right: 13px;
+	padding-left: 13px;
+}
+
+.h25{ line-height: 25px}
+
+
+.search td {
+	font-size: 12px;
+	color: #FFFFFF;
+}
+
+.button 
+{
+	BORDER-RIGHT: #a7a6aa 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: 
+    #a7a6aa 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: 
+    progid:DXImageTransform.Microsoft.Gradient(GradientType=0, 
+    StartColorStr=#ffffff, EndColorStr=#00ffff); BORDER-LEFT: #a7a6aa 
+    1px solid; COLOR: black; PADDING-TOP: 2px; 
+    BORDER-BOTTOM: #a7a6aa 1px solid;CURSOR: hand;
+}
+
+.btn3          
+{
+    BORDER-RIGHT: #a7a6aa 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: 
+    #a7a6aa 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: 
+    progid:DXImageTransform.Microsoft.Gradient(GradientType=0, 
+    StartColorStr=#ffffff, EndColorStr=#ffffff); BORDER-LEFT: #a7a6aa 
+    1px solid; COLOR: black; PADDING-TOP: 2px; CURSOR: hand;
+    BORDER-BOTTOM: #a7a6aa 1px solid
+}
+
+.btn {
+             BORDER-RIGHT: #7b9ebd 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: 
+            #7b9ebd 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: 
+            progid:DXImageTransform.Microsoft.Gradient(GradientType=0, 
+            StartColorStr=#ffffff, EndColorStr=#cecfde); BORDER-LEFT: #7b9ebd 
+            1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; 
+            BORDER-BOTTOM: #7b9ebd 1px solid
+            }
+.btn1_mouseout {
+             BORDER-RIGHT: #7EBF4F 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: 
+            #7EBF4F 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: 
+            progid:DXImageTransform.Microsoft.Gradient(GradientType=0, 
+            StartColorStr=#ffffff, EndColorStr=#B3D997); BORDER-LEFT: #7EBF4F 
+            1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; 
+            BORDER-BOTTOM: #7EBF4F 1px solid
+            } 
+.btn1_mouseover {
+             BORDER-RIGHT: #7EBF4F 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: 
+            #7EBF4F 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 12px; FILTER: 
+            progid:DXImageTransform.Microsoft.Gradient(GradientType=0, 
+            StartColorStr=#ffffff, EndColorStr=#CAE4B6); BORDER-LEFT: #7EBF4F 
+            1px solid; CURSOR: hand; COLOR: black; PADDING-TOP: 2px; 
+            BORDER-BOTTOM: #7EBF4F 1px solid
+            } 

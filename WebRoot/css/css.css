@@ -1,0 +1,22 @@
+.titlename {
+	font-size: xx-large;
+	font-weight: bold;
+}
+.small{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+.star {color: red}
+
+A:link,A:visited  { COLOR: #000000; TEXT-DECORATION: none }
+A:hover { COLOR: #000000; TEXT-DECORATION: underline } 
+A.L1:link,A.L1:visited { COLOR: #FFFFFF; TEXT-DECORATION: none;}
+A.L1:hover { COLOR: #FFFFFF; TEXT-DECORATION:underline;}
+.h22{ line-height: 22px} 
+.h25{ line-height: 25px}
+
+.px12 {font-family: "ËÎÌו", "Microsoft Sans Serif", "Verdana", "Arial"; font-size: 12px;}
+.px12white {font-family: "ËÎÌו", "Microsoft Sans Serif", "Verdana", "Arial"; font-size: 12px;COLOR: #ffffff;}
+.px12blue {font-family: "ËÎÌו", "Microsoft Sans Serif", "Verdana", "Arial"; font-size: 12px;COLOR: #016c93;}
+.inputtype { BORDER-RIGHT:#738b9f 1px solid; BORDER-TOP:#738b9f 1px solid; FONT-SIZE: 12px;color: #1d5377; BORDER-LEFT:#738b9f 1px solid; BORDER-BOTTOM:#738b9f 1px solid; BACKGROUND-COLOR: #ffffff }

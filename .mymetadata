@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="hrclub"
+  id="myeclipse.1207292384921"
+  context-root="/hrclub"
+  j2ee-spec="1.4"
+  archive="hrclub.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

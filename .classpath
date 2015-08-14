@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="src" kind="src"/>
+	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"/>
+	<classpathentry path="com.genuitec.eclipse.j2eedt.core.J2EE14_CONTAINER" kind="con"/>
+	<classpathentry path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4" kind="con"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/FCKeditor-2.3.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/activation.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/bcprov-jdk14-131.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/c3p0-0.9.0.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/commons-codec-1.3.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/commons-collections-2.1.1.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/commons-fileupload-20070103.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/commons-io-1.2.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/commons-lang-2.2.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/commons-logging.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/dom4j-1.5.1.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/dsn.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/dwr.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/imap.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/jaxen-1.1-beta-4.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/log4j-1.2.13.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/mail.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/mailapi.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/mysql-connector-java-5.0.6-bin.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/pop3.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/smtp.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/classes" kind="output"/>
+</classpath>

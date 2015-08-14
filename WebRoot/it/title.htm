@@ -1,0 +1,111 @@
+ <%@ page language="java" import="com.hrclub.to.*,java.util.*"
+	contentType="text/html; charset=GBK" pageEncoding="GBK"%>
+<html> 
+<head> 
+
+<title>标题</title> 
+<style type="text/css"> 
+<!-- 
+*{margin:0;padding:0;border:0;} 
+body { 
+font-family: arial&#44; 宋体&#44; serif; 
+font-size:12px; 
+} 
+#nav { 
+line-height: 24px; list-style-type: none; background:#666; 
+} 
+#nav a { 
+display: block; width: 100px; text-align:center; 
+} 
+#nav a:link { 
+color:#666; text-decoration:none; 
+} 
+#nav a:visited { 
+color:#666;text-decoration:none; 
+} 
+#nav a:hover { 
+color:#FFF;text-decoration:none;font-weight:bold; 
+} 
+#nav li { 
+float: left; width: 80px; background:#FFFFFF; 
+} 
+#nav li a:hover{ 
+background:#999; 
+} 
+#nav li ul { 
+line-height: 27px; list-style-type: none;text-align:left; 
+left: -999em; width: 180px; position: absolute; 
+} 
+#nav li ul li{ 
+float: left; width: 180px; 
+background: #F6F6F6; 
+} 
+#nav li ul a{ wedisplay: block; width: 156px;text-align:left;padding-left:24px; 
+} 
+#nav li ul a:link { 
+color:#666; text-decoration:none; 
+} 
+#nav li ul a:visited { 
+color:#666;text-decoration:none; 
+} 
+#nav li ul a:hover { 
+color:#F3F3F3;text-decoration:none;font-weight:normal; 
+background:#C00; 
+} 
+#nav li:hover ul { 
+left: auto; 
+} 
+#nav li.sfhover ul { 
+left: auto; 
+} 
+#content { 
+clear: left; 
+} 
+--> 
+</style> 
+<script type=text/javascript> 
+<!--//--><![CDATA[//><!-- 
+function menuFix() { 
+var sfEls = document.getElementById("nav").getElementsByTagName("li"); 
+for (var i=0; i<sfEls.length; i++) { 
+sfEls[i].onmouseover=function() { 
+this.className+=(this.className.length>0? " ": "") + "sfhover"; 
+} 
+sfEls[i].onMouseDown=function() { 
+this.className+=(this.className.length>0? " ": "") + "sfhover"; 
+} 
+sfEls[i].onMouseUp=function() { 
+this.className+=(this.className.length>0? " ": "") + "sfhover"; 
+} 
+sfEls[i].onmouseout=function() { 
+this.className=this.className.replace(new RegExp("( ?|^)sfhover\\b")&#44; 
+""); 
+} 
+} 
+} 
+window.onload=menuFix; 
+//--><!]]> 
+</script> 
+</head> 
+  
+  <body>
+   <table width="828" height="63" border="0" align="center">
+  <tr>
+    <td width="234">&nbsp;</td>
+    <td width="584" align="right"><ul id="nav" > 
+<li><a href="../index.jsp">首页</a></li> 
+
+<li><a href="#">博客</a></li> 
+<li><a href="#">论坛</a></li> 
+<li><a href="#">关于我们</a></li> 
+<li><a href="#">联系我们</a></li> 
+</ul> </td>
+  </tr>
+  <tr>
+    <td height="22">&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+
+  </body>
+</html>
